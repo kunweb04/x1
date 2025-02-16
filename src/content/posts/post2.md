@@ -16,9 +16,11 @@ lang: ''
 
 ## html:
 ### 最基础的标记语言，就是一个苦逼码农，所有的元素都是一个一个写出来的。最快的判别网页语言方式就是用Ctrl+U，如果出现
-<div class="sticky-header">
+```HTML
+ <div class="sticky-header">
 	<h1>hello world</h1>
-</div>
+ </div>
+ ```
 这类的格式基本就是html,css,js
 
 ## #wordpress：
