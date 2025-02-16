@@ -1,7 +1,7 @@
 ---
 title: '网页基础认识'
 published: 2025-02-16
-description: '简单了解网页的知识与流程
+description: '简单了解网页的知识与流程'
 image: ''
 tags: [网页,分享]
 category: ''
