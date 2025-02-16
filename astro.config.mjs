@@ -22,9 +22,7 @@ import { remarkReadingTime } from "./src/plugins/remark-reading-time.mjs";
 // https://astro.build/config
 export default defineConfig({
   site: "https://kunweb04.github.io",
-  base: "/x1/",
-  output: "static", // Astro 需要静态输出
-  adapter: github(),
+  base: "x1",
   trailingSlash: "always",
   integrations: [
     tailwind(
