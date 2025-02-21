@@ -1,7 +1,7 @@
 ---
 title: '网页设计-交互式响应'
 published: 2025-02-21
-description: 'Oxygen Not Included'
+description: '交互式响应-最痛苦的设计'
 image: ''
 tags: [网页,交互式]
 category: ''
