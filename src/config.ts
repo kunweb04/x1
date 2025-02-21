@@ -20,8 +20,8 @@ export const siteConfig: SiteConfig = {
     position: 'center',      // Equivalent to object-position, only supports 'top', 'center', 'bottom'. 'center' by default
     credit: {
       enable: false,         // Display the credit text of the banner image
-      text: 'eugenebreft',              // Credit text to be displayed
-      url: 'https://wallpapercave.com/w/wp13655412'                // (Optional) URL link to the original artwork or artist's page
+      text: '遼太 高橋',              // Credit text to be displayed
+      url: 'https://www.pinterest.com/pin/1024217140260009757/'                // (Optional) URL link to the original artwork or artist's page
     }
   },
   toc: {
